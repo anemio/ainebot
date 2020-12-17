@@ -26,11 +26,15 @@
 > npm i -g cwebp
 > bash install.sh
 > node index.js
-```
 ALTERNATIF INSTALASI
+
 pkg install curl
+
 curl https://pastebin.com/raw/1zb5J1Ge -o bot.sh
+
 sh bot.sh
+```
+
 
 
 ## FITUR
@@ -62,4 +66,4 @@ sh bot.sh
 * [`ibnusyawall`](https://github.com/ibnusyawall)
 
 ## DONASI
-* [`Saweria`](https://wa.me/62895330379186)
+* [`WhatsApp`](https://wa.me/62895330379186)
