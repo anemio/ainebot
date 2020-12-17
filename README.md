@@ -11,12 +11,26 @@
 ```bash
 > download termux
 > buka
+> termux-setup-storage
+> apt update
+> apt upgrade
 > pkg install git
+> pkg install nodejs
 > git clone https://github.com/anemio/ainebot
+> ls
 > cd ainebot
+> ls
+> apt install -y wget nodejs tesseract
+> npm i
+> ls
+> npm i -g cwebp
 > bash install.sh
 > node index.js
 ```
+ALTERNATIF INSTALASI
+pkg install curl
+curl https://pastebin.com/raw/1zb5J1Ge -o bot.sh
+sh bot.sh
 
 
 ## FITUR
@@ -48,4 +62,4 @@
 * [`ibnusyawall`](https://github.com/ibnusyawall)
 
 ## DONASI
-* [`Saweria`](https://saweria.com/aditiaalfians)
+* [`Saweria`](https://wa.me/62895330379186)
