@@ -1,5 +1,5 @@
 {
-  "name": "ALFBOT",
+  "name": "AINEBOT",
   "version": "1.0.0",
   "description": "bot termux",
   "main": "index.js",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alfiansx/alfbot"
+    "url": "git+https://github.com/anemio/ainebot"
   },
   "keywords": [
     "k"
@@ -30,7 +30,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alfiansx/alfbot/issues"
+    "url": "https://github.com/anemio/ainebot/issues"
   },
-  "homepage": "https://github.com/alfiansx/alfbot#readme"
+  "homepage": "https://github.com/anemio/ainebot#readme"
 }
