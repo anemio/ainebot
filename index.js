@@ -21,7 +21,7 @@ const bulan = arrayBulan[moment().format('MM') - 1]
 const config = {
     BotName: 'AINE BOT',
     instagram: 'https://instagram.com/anemio999',
-    whatsapp: 'wa.me/6289654360447',
+    whatsapp: 'wa.me/62895330379186',
     kapanbotaktif: '24 JAM',
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
