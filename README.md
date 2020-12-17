@@ -1,6 +1,6 @@
 <div align="center">
 
-    <h3> BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX </h3>
+    BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 # Aine BOT
 </div>
 
