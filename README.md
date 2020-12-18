@@ -56,8 +56,8 @@ sh bot.sh
 |       ✅       | ARTI NAMA                         |
 |       ✅       | SHOLAT                            |
 |       ✅       | QURAN                             |
+|       ✅       | AKTIF 24 JAM                      |
 
-✅ aktif
 
 
 ## THANKS TO
