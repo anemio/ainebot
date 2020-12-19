@@ -367,8 +367,3 @@ client.on('message-new', async (m) => {
            break
    }
 })
-else if (text == 'i love you'){
-
-conn.sendMessage(id, 'i love you too 😘🥰' ,MessageType.text);
-
-}
