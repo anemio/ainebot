@@ -101,7 +101,7 @@ client.on('message-new', async (m) => {
    const text = m.message.conversation
    const messageType = Object.keys(messageContent)[0]
 
-   const re = /[\#\!\@\.]/
+   const re = /[\#\!\+\$\@\.]/
 
    const value = text.split(' ').splice(1).join(' ')
 
